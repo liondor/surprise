@@ -1074,7 +1074,12 @@ audio {
 		transform:translate(0px,0px);
 	}
 }
-
+#birthday{
+	position: absolute;
+	top: 0;
+	left: 0;
+	display: none;
+}
 .balloons {
 	position: fixed;
 	bottom: -200px;
